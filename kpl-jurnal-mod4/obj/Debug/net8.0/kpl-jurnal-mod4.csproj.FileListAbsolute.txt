@@ -1,0 +1,15 @@
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\bin\Debug\net8.0\kpl-jurnal-mod4.exe
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\bin\Debug\net8.0\kpl-jurnal-mod4.deps.json
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\bin\Debug\net8.0\kpl-jurnal-mod4.runtimeconfig.json
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\bin\Debug\net8.0\kpl-jurnal-mod4.dll
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\bin\Debug\net8.0\kpl-jurnal-mod4.pdb
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\kpl-jurnal-mod4.GeneratedMSBuildEditorConfig.editorconfig
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\kpl-jurnal-mod4.AssemblyInfoInputs.cache
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\kpl-jurnal-mod4.AssemblyInfo.cs
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\kpl-jurnal-mod4.csproj.CoreCompileInputs.cache
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\kpl-jurnal-mod4.sourcelink.json
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\kpl-jurnal-mod4.dll
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\refint\kpl-jurnal-mod4.dll
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\kpl-jurnal-mod4.pdb
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\kpl-jurnal-mod4.genruntimeconfig.cache
+D:\mod4\kpl-jurnal-mod4\kpl-jurnal-mod4\obj\Debug\net8.0\ref\kpl-jurnal-mod4.dll
