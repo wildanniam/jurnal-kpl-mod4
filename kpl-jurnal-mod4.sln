@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kpl-jurnal-mod4", "kpl-jurnal-mod4\kpl-jurnal-mod4.csproj", "{8E354EF7-368C-4063-B7B4-42264113B114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E354EF7-368C-4063-B7B4-42264113B114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E354EF7-368C-4063-B7B4-42264113B114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E354EF7-368C-4063-B7B4-42264113B114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E354EF7-368C-4063-B7B4-42264113B114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C5BC7D0-43B3-46EE-89CA-3723362FB1AF}
+	EndGlobalSection
+EndGlobal
